@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visualize the Sorting Algos
 
 https://algovisualizer-76b0f.web.app
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# AlgoVisuals
+>>>>>>> 89321039a68701f0e8b91cdbbad5467acd8eee5b
