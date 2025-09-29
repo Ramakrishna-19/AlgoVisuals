@@ -14,10 +14,10 @@ function Header() {
       <div id="header__bar" style = {{transform: showHeaderBar? `translateY(120px)`: `translateY(0px)`}}>
         <h3 className="header__bar__title">Frontend Developer</h3>
         <div className="header__bar__icons">
-          <a href="https://www.facebook.com/dasharath.dasharath.1694/" target='_blank'><img src="https://img.icons8.com/ios/50/000000/facebook--v1.png"/></a>
-          <a href="https://www.instagram.com/dasharath_116/" target='_blank'><img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png"/></a>
-          <a href="https://github.com/Dasharath9920" target='_blank'><img src="https://img.icons8.com/ios/50/000000/github--v1.png"/></a>
-          <a href="https://www.linkedin.com/in/dyavari-dasharath-b767021b3/" target='_blank'><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a>
+          <a href="https://www.facebook.com/profile.php?id=100081526961925" target='_blank'><img src="https://img.icons8.com/ios/50/000000/facebook--v1.png"/></a>
+          <a href="https://www.instagram.com/probably_krishna/?next=%2F" target='_blank'><img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png"/></a>
+          <a href="https://github.com/Ramakrishna-19" target='_blank'><img src="https://img.icons8.com/ios/50/000000/github--v1.png"/></a>
+          <a href="https://www.linkedin.com/in/ramakrishna-dyavari-a2669823b/" target='_blank'><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a>
         </div>
       </div>
 
@@ -28,5 +28,6 @@ function Header() {
    </div>
   )
 }
+
 
 export default Header;
